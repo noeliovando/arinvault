@@ -1,0 +1,54 @@
+.navbar-blue {
+  background-color: #3D85C6;
+  border-color: #1A55A4;
+}
+.navbar-blue .navbar-brand {
+  color: #fff;
+}
+.navbar-blue .navbar-brand:hover,
+.navbar-blue .navbar-brand:focus {
+  color: #fff;
+  background-color: transparent;
+}
+.navbar-blue .navbar-text {
+  color: #fff;
+}
+.navbar-blue .navbar-nav > li > a {
+  color: #fff;
+}
+.navbar-blue .navbar-nav > li > a:hover,
+.navbar-blue .navbar-nav > li > a:focus {
+  color: #fff;
+  background-color: transparent;
+}
+.navbar-blue .navbar-nav > .active > a,
+.navbar-blue .navbar-nav > .active > a:hover,
+.navbar-blue .navbar-nav > .active > a:focus {
+  color: #fff;
+  /*background-color: #080808;*/
+}
+.navbar-blue .navbar-nav > .disabled > a,
+.navbar-blue .navbar-nav > .disabled > a:hover,
+.navbar-blue .navbar-nav > .disabled > a:focus {
+  color: #444;
+  background-color: transparent;
+}
+.navbar-blue .navbar-nav > .open > a,
+.navbar-blue .navbar-nav > .open > a:hover,
+.navbar-blue .navbar-nav > .open > a:focus {
+  color: #fff;
+  background-color: #080808;
+}
+.navbar-right {
+    float: right !important;
+    margin-right: -15px;
+    font-weight: bold;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: bold;
+}
